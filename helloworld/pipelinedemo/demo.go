@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ghost0036/go-hello/theme/pipelinedemo/pipeline"
+	"github.com/ghost0036/go-hello/helloworld/pipelinedemo/pipeline"
 	"fmt"
 	"os"
 	"bufio"
